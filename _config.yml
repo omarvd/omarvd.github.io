@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Omar Vasquez Duque's site"
 title_separator          : "-"
 name                     : &name "Omar Vasquez Duque"
-description              : &description "Law and Economics Scholar"
+description              : &description "Assistant Professor of Law"
 url                      : https://omarvd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "omarvd/omarvd.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Omar Vasquez Duque"
   avatar           : "OVDpict.png"
-  bio              : "Law and Economics Fellow, NYU Law School. Expert in Antitrust, Business Law, Law and Economics, and Empirical Legal Studies."
-  location         : "New York City"
-  employer         : NYU Law School
+  bio              : "Assistant Professor of Law. Expert in Antitrust, Business Law, Law and Economics, and Empirical Legal Studies."
+  location         : "Camden, New Jersey"
+  employer         : Rutgers Law School
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=F5hG2L0AAAAJ&hl=en&inst=5746887945952177237&oi=ao"
-  email            : o.vasquez.duque@nyu.edu
+  email            : o.vasquezduque@rutgers.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

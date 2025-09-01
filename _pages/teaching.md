@@ -4,6 +4,9 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+* Fall 2025: Antitrust Law
+  * Rutgers Law School
+
 * Spring 2024: Instructor of Law and Economics (PP106/Econ154)
   * [Stanford University](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=omar+vasquez+duque&collapse=)
   * Teaching Evaluation: 5/5 median
